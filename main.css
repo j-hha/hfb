@@ -42,9 +42,9 @@ a {
   min-width: 20vmax;
   height: 20vmax;
   border-radius:100%;
-  background-color: #FF8E00;
+  background-color: #ccc;
   text-align: left;
-  background-image: radial-gradient(circle, #ffcd8d, orange);
+  background-image: radial-gradient(circle, #ccc, hotpink);
   box-shadow: 4px 4px 8px orange, -4px -4px 8px orange, 4px -4px 8px orange, -4px 4px 8px orange;
   text-align: center;
   vertical-align: middle;

@@ -4,8 +4,8 @@
 body {
   margin-top:20px;
   font-family: Osaka;
-  background-color: ghostwhite;
-  color: inherit;
+  background-color: magenta;
+  color: #191919;
 }
 
 h2, h3, h5 {
@@ -42,9 +42,9 @@ a {
   min-width: 20vmax;
   height: 20vmax;
   border-radius:100%;
-  background-color: #FF8E00;
+  background-color: #ccc;
   text-align: left;
-  background-image: radial-gradient(circle, #ffcd8d, orange);
+  background-image: radial-gradient(circle, #ccc, hotpink);
   box-shadow: 4px 4px 8px orange, -4px -4px 8px orange, 4px -4px 8px orange, -4px 4px 8px orange;
   text-align: center;
   vertical-align: middle;
@@ -77,5 +77,5 @@ h1 {
 }
 
 .price {
-  color: orange;
+  color: lightblue;
 }
